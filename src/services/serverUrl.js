@@ -1,1 +1,1 @@
-export const serverUrl = import.meta.env.url
+export const serverUrl = import.meta.env.REACT_APP_SERVER_URL;
